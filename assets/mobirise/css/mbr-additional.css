@@ -1672,43 +1672,43 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rXSsIIOedK {
+.cid-rXZtjYb8uw {
   padding-top: 60px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rXSsIIOedK .content {
+  .cid-rXZtjYb8uw .content {
     text-align: center;
   }
-  .cid-rXSsIIOedK .content > div:not(:last-child) {
+  .cid-rXZtjYb8uw .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rXSsIIOedK .media-wrap {
+  .cid-rXZtjYb8uw .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rXSsIIOedK .media-wrap .mbr-iconfont-logo {
+.cid-rXZtjYb8uw .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rXSsIIOedK .media-wrap img {
+.cid-rXZtjYb8uw .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rXSsIIOedK .footer-lower .copyright {
+  .cid-rXZtjYb8uw .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rXSsIIOedK .footer-lower hr {
+.cid-rXZtjYb8uw .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rXSsIIOedK .footer-lower .social-list {
+.cid-rXZtjYb8uw .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1717,33 +1717,33 @@ section.lazy-placeholder:after {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-rXSsIIOedK .footer-lower .social-list .mbr-iconfont-social {
+.cid-rXZtjYb8uw .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rXSsIIOedK .footer-lower .social-list .soc-item {
+.cid-rXZtjYb8uw .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rXSsIIOedK .footer-lower .social-list a {
+.cid-rXZtjYb8uw .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rXSsIIOedK .footer-lower .social-list a:hover {
+.cid-rXZtjYb8uw .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rXSsIIOedK .footer-lower .social-list {
+  .cid-rXZtjYb8uw .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-rXSsIIOedK P {
+.cid-rXZtjYb8uw P {
   color: #ffffff;
 }
-.cid-rXSsIIOedK H5 {
-  color: #14cc26;
+.cid-rXZtjYb8uw H5 {
+  color: #f7910f;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2126,232 +2126,43 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #4aa12f !important;
 }
-.cid-rXH9tZXhEF {
-  padding-top: 135px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/abdominal-cavitation-radio-frequency-vacuum-therapy-1528x1017.jpg");
-}
-.cid-rXH9tZXhEF .mbr-section-btn > * {
-  margin: 0;
-}
-.cid-rXH9tZXhEF h4 {
-  font-weight: 500;
-}
-.cid-rXH9tZXhEF p {
-  color: #232323;
-}
-.cid-rXH9tZXhEF .aside-content {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.cid-rXH9tZXhEF .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-rXH9tZXhEF .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rXH9tZXhEF .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-rXH9tZXhEF .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-rXH9tZXhEF .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-rXH9tZXhEF .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rXH9tZXhEF .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rXH9tZXhEF .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-rXH9tZXhEF .cost {
-  text-decoration: line-through;
-  color: #767676;
-}
-.cid-rXH9t2VK6C {
-  padding-top: 60px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/cavitation-neck-2000x1200.jpg");
-}
-.cid-rXH9t2VK6C .mbr-section-btn > * {
-  margin: 0;
-}
-.cid-rXH9t2VK6C h4 {
-  font-weight: 500;
-}
-.cid-rXH9t2VK6C p {
-  color: #232323;
-}
-.cid-rXH9t2VK6C .aside-content {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.cid-rXH9t2VK6C .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-rXH9t2VK6C .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rXH9t2VK6C .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-rXH9t2VK6C .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-rXH9t2VK6C .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-rXH9t2VK6C .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rXH9t2VK6C .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rXH9t2VK6C .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-rXH9t2VK6C .cost {
-  text-decoration: line-through;
-  color: #767676;
-}
-.cid-rXXAyqpB7V {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/ultrasonic-cavitation-tape-2000x1388.jpg");
-}
-.cid-rXXAyqpB7V .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rXXAyqpB7V .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rXXAyqpB7V .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rXXAyqpB7V .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rXXAyqpB7V .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rXXAyqpB7V .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rXXAyqpB7V .plan-header,
-.cid-rXXAyqpB7V .plan-body {
-  background-color: #fff;
-}
-.cid-rXXAyqpB7V .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-rXXAyqpB7V .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rXXAyqpB7V .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rXSsDRRShW {
-  padding-top: 60px;
+.cid-rXZrKItIBo {
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rXSsDRRShW .content {
+  .cid-rXZrKItIBo .content {
     text-align: center;
   }
-  .cid-rXSsDRRShW .content > div:not(:last-child) {
+  .cid-rXZrKItIBo .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rXSsDRRShW .media-wrap {
+  .cid-rXZrKItIBo .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rXSsDRRShW .media-wrap .mbr-iconfont-logo {
+.cid-rXZrKItIBo .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rXSsDRRShW .media-wrap img {
+.cid-rXZrKItIBo .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rXSsDRRShW .footer-lower .copyright {
+  .cid-rXZrKItIBo .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rXSsDRRShW .footer-lower hr {
+.cid-rXZrKItIBo .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rXSsDRRShW .footer-lower .social-list {
+.cid-rXZrKItIBo .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2360,33 +2171,33 @@ section.lazy-placeholder:after {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-rXSsDRRShW .footer-lower .social-list .mbr-iconfont-social {
+.cid-rXZrKItIBo .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rXSsDRRShW .footer-lower .social-list .soc-item {
+.cid-rXZrKItIBo .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rXSsDRRShW .footer-lower .social-list a {
+.cid-rXZrKItIBo .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rXSsDRRShW .footer-lower .social-list a:hover {
+.cid-rXZrKItIBo .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rXSsDRRShW .footer-lower .social-list {
+  .cid-rXZrKItIBo .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-rXSsDRRShW P {
+.cid-rXZrKItIBo P {
   color: #ffffff;
 }
-.cid-rXSsDRRShW H5 {
-  color: #14cc26;
+.cid-rXZrKItIBo H5 {
+  color: #f7910f;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
