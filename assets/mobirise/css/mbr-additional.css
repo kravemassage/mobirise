@@ -1127,6 +1127,9 @@ section.lazy-placeholder:after {
 .cid-rXHgc9dQTf H5 {
   color: #f7910f;
 }
+.cid-rXHgc9dQTf H2 {
+  text-align: left;
+}
 .cid-rXHBkgFlXD {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1199,6 +1202,9 @@ section.lazy-placeholder:after {
   .cid-rXHiJZPYxL .iconfont-wrapper {
     display: none;
   }
+}
+.cid-rXHiJZPYxL H5 {
+  color: #f7910f;
 }
 .cid-rXZBQRFT1k {
   padding-top: 60px;
