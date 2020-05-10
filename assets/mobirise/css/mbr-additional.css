@@ -4100,6 +4100,7 @@ section.lazy-placeholder:after {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
+  color: #a39d9d;
 }
 @media (max-width: 992px) {
   .cid-rYxmK8QY2I .dataTables_filter {
@@ -4198,6 +4199,7 @@ section.lazy-placeholder:after {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
+  color: #a39d9d;
 }
 @media (max-width: 992px) {
   .cid-rYxKX3MGkD .dataTables_filter {
