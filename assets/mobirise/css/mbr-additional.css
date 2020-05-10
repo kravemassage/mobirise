@@ -4037,8 +4037,8 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-rYxmK8QY2I {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #dfdfdf;
 }
 .cid-rYxmK8QY2I .mbr-section-subtitle {
@@ -4125,8 +4125,8 @@ section.lazy-placeholder:after {
   color: #333333;
 }
 .cid-rYxSm0W5Jp {
-  padding-top: 90px;
-  padding-bottom: 75px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/essential-oil-740x342.jpg");
 }
 .cid-rYxSm0W5Jp .mbr-section-subtitle {
@@ -4134,94 +4134,6 @@ section.lazy-placeholder:after {
 }
 .cid-rYxSm0W5Jp .btn {
   margin: 0 0 .5rem 0;
-}
-.cid-rYxKX3MGkD {
-  padding-top: 45px;
-  padding-bottom: 90px;
-  background-color: #dfdfdf;
-}
-.cid-rYxKX3MGkD .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rYxKX3MGkD .container-table {
-  margin: 0 auto;
-}
-.cid-rYxKX3MGkD .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-rYxKX3MGkD .dataTables_wrapper {
-  display: block;
-}
-.cid-rYxKX3MGkD .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-rYxKX3MGkD .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-rYxKX3MGkD table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cebfaf;
-  margin-bottom: 0;
-}
-.cid-rYxKX3MGkD table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-rYxKX3MGkD table th:hover {
-  background: #cebfaf;
-  color: #000000;
-}
-.cid-rYxKX3MGkD table td {
-  border-top: 1px solid #cebfaf;
-}
-.cid-rYxKX3MGkD table.table {
-  background: #ffffff;
-}
-.cid-rYxKX3MGkD .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-rYxKX3MGkD .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-rYxKX3MGkD .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-rYxKX3MGkD .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-  color: #a39d9d;
-}
-@media (max-width: 992px) {
-  .cid-rYxKX3MGkD .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-rYxKX3MGkD .dataTables_filter {
-    text-align: center;
-  }
-  .cid-rYxKX3MGkD .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-rYxKX3MGkD .head-item {
-  text-align: center;
-  color: #65635e;
-}
-.cid-rYxKX3MGkD .body-item {
-  text-align: center;
-  color: #333333;
 }
 .cid-rXZrKItIBo {
   padding-top: 90px;
