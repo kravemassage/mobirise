@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Therapeutic Massage",
-    "currentPage": "Map.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -161,7 +161,7 @@
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/kravemassage-az-128x160.png",
+    "favicon": "@PROJECT_PATH@/assets/images/kravemassage-az-128x160-1.png",
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
