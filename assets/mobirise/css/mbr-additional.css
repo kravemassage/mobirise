@@ -1700,6 +1700,18 @@ section.lazy-placeholder:after {
 .cid-rXH1q8vYmb .team-item .item-caption {
   background: #efefef;
 }
+.cid-s5l7Ce9P8s {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-s5l7Ce9P8s .mbr-text,
+.cid-s5l7Ce9P8s blockquote {
+  color: #767676;
+}
+.cid-s5l7Ce9P8s .mbr-text P {
+  text-align: center;
+}
 .cid-rXZVAe6PT8 {
   padding-top: 30px;
   padding-bottom: 30px;
