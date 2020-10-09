@@ -1700,6 +1700,46 @@ section.lazy-placeholder:after {
 .cid-rXH1q8vYmb .team-item .item-caption {
   background: #efefef;
 }
+.cid-scSOnstP81 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-scSOnstP81 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-scSOnstP81 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-scSOnstP81 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-scSOnstP81 .team-item .item-image img {
+  width: 100%;
+}
+.cid-scSOnstP81 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-scSOnstP81 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-scSOnstP81 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-scSOnstP81 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-scSOnstP81 .team-item .item-caption {
+  background: #efefef;
+}
 .cid-s5l7Ce9P8s {
   padding-top: 0px;
   padding-bottom: 30px;
