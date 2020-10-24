@@ -4238,14 +4238,102 @@ section.lazy-placeholder:after {
 }
 .cid-rYyvjccmV5 .head-item {
   text-align: center;
-  color: #65635e;
+  color: #f2a70a;
 }
 .cid-rYyvjccmV5 .body-item {
   text-align: center;
   color: #333333;
 }
+.cid-semWXxPj3Y {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #dfdfdf;
+}
+.cid-semWXxPj3Y .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-semWXxPj3Y .container-table {
+  margin: 0 auto;
+}
+.cid-semWXxPj3Y .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-semWXxPj3Y .dataTables_wrapper {
+  display: block;
+}
+.cid-semWXxPj3Y .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-semWXxPj3Y .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-semWXxPj3Y table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cebfaf;
+  margin-bottom: 0;
+}
+.cid-semWXxPj3Y table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-semWXxPj3Y table th:hover {
+  background: #cebfaf;
+  color: #000000;
+}
+.cid-semWXxPj3Y table td {
+  border-top: 1px solid #cebfaf;
+}
+.cid-semWXxPj3Y table.table {
+  background: #ffffff;
+}
+.cid-semWXxPj3Y .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-semWXxPj3Y .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-semWXxPj3Y .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-semWXxPj3Y .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #a39d9d;
+}
+@media (max-width: 992px) {
+  .cid-semWXxPj3Y .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-semWXxPj3Y .dataTables_filter {
+    text-align: center;
+  }
+  .cid-semWXxPj3Y .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-semWXxPj3Y .head-item {
+  text-align: center;
+  color: #f2a70a;
+}
+.cid-semWXxPj3Y .body-item {
+  text-align: center;
+  color: #333333;
+}
 .cid-rYyOzFUVpp {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #dfdfdf;
 }
