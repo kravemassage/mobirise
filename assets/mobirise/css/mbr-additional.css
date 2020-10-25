@@ -6556,8 +6556,8 @@ section.lazy-placeholder:after {
 }
 .cid-sen0qOEqaj {
   padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #0d0c0c;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-sen0qOEqaj .line {
   background-color: #ffffff;
@@ -6568,6 +6568,7 @@ section.lazy-placeholder:after {
 }
 .cid-sen0qOEqaj .section-text {
   padding: 2rem 0;
+  color: #1e1d1b;
 }
 .cid-sen0qOEqaj .inner-container {
   margin: 0 auto;
@@ -6577,11 +6578,34 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sen2P4Ph0q {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0d0c0c;
+}
+.cid-sen2P4Ph0q .line {
+  background-color: #0d0c0c;
+  color: #0d0c0c;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sen2P4Ph0q .section-text {
+  padding: 2rem 0;
+}
+.cid-sen2P4Ph0q .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sen2P4Ph0q .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sen0k6gwcT {
-  background: #232323;
-  padding-top: 30px;
+  background: #ffffff;
+  padding-top: 15px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #879a9f, #232323);
+  background: linear-gradient(0deg, #232323, #ffffff);
 }
 .cid-sen0k6gwcT .image-block {
   margin: auto;
@@ -6599,32 +6623,9 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sen2P4Ph0q {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #0d0c0c;
-}
-.cid-sen2P4Ph0q .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sen2P4Ph0q .section-text {
-  padding: 2rem 0;
-}
-.cid-sen2P4Ph0q .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sen2P4Ph0q .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-sen068MWvY {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-sen068MWvY .socicon-bg-facebook {
@@ -6683,6 +6684,9 @@ section.lazy-placeholder:after {
   .cid-sen068MWvY .btn {
     font-size: 20px !important;
   }
+}
+.cid-sen068MWvY .mbr-section-title {
+  color: #5b686b;
 }
 .cid-sen4zOv3nh {
   padding-top: 60px;
@@ -6755,5 +6759,5 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sen4zOv3nh H5 {
-  color: #5b686b;
+  color: #f2a70a;
 }
