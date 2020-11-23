@@ -2316,16 +2316,11 @@ section.lazy-placeholder:after {
   color: #f7910f;
   text-align: right;
 }
-.cid-s97essA1gn {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
 .cid-s97aUUuHz7 {
-  background: #ffffff;
+  background: #efefef;
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #c1c1c1, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #efefef);
 }
 .cid-s97aUUuHz7 .image-block {
   margin: auto;
