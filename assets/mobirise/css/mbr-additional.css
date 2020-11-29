@@ -3849,27 +3849,23 @@ section.lazy-placeholder:after {
 .cid-rXGIf7YtUT .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rYyWbrujhE {
-  padding-top: 15px;
-  padding-bottom: 0px;
+.cid-shKPiM2CNx {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rYyWbrujhE .mbr-text,
-.cid-rYyWbrujhE blockquote {
+@media (min-width: 992px) {
+  .cid-shKPiM2CNx .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-shKPiM2CNx .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-shKPiM2CNx .mbr-text {
   color: #767676;
-}
-.cid-rYyWbrujhE .mbr-text P {
-  text-align: center;
-}
-.cid-rYyW2iOW1x {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rZ6TI02QF8 {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
 }
 .cid-rXZLS9qHAZ {
   padding-top: 60px;
