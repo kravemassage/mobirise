@@ -7781,7 +7781,8 @@
       "settings": {
         "meta_descr": "Purchase online gift certificate for massage - instant print or email",
         "title": "Gift Certificates",
-        "order": 10
+        "order": 10,
+        "meta_image": "@PROJECT_PATH@/assets/images/krave-therapeutic-massage-gift-certificate-az-1046x479.jpg"
       },
       "components": [
         {
