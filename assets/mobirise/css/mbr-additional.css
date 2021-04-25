@@ -5479,15 +5479,32 @@ section.lazy-placeholder:after {
 .cid-sv4Jse7tXn P {
   text-align: center;
 }
-.cid-svypjMJiaG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-svyu0RrmhL {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #7f1933;
+  background: linear-gradient(45deg, #7f1933, #232323);
 }
-.cid-svyqvTtIug {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-svyu0RrmhL .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-svyu0RrmhL .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-svyu0RrmhL .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-svyu0RrmhL .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rYIit8Cpen {
   padding-top: 60px;
