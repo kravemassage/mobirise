@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Therapeutic Massage",
-    "currentPage": "Krave Therapeutic Massage.html",
+    "currentPage": "KraveTherapeuticMassage.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7459,10 +7459,10 @@
         }
       ]
     },
-    "Krave Therapeutic Massage.html": {
+    "KraveTherapeuticMassage.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Krave Therapeutic Massage",
         "meta_descr": "Krave Therapeutic Massage in Peoria, Arizona offers excellence in massage therapy with veteran therapists in a relaxing non-membership environment.",
         "header_custom": "",
         "footer_custom": "",
