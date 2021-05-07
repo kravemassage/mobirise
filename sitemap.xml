@@ -6,16 +6,10 @@
 		<loc>http://kravemassage.com/Team.html</loc>
 	</url>
 	<url>
-		<loc>http://kravemassage.com/Policies.html</loc>
-	</url>
-	<url>
 		<loc>http://kravemassage.com/Map.html</loc>
 	</url>
 	<url>
 		<loc>http://kravemassage.com/Rates.html</loc>
-	</url>
-	<url>
-		<loc>http://kravemassage.com/Benefits of Massage.html</loc>
 	</url>
 	<url>
 		<loc>http://kravemassage.com/Services.html</loc>
@@ -31,5 +25,8 @@
 	</url>
 	<url>
 		<loc>http://kravemassage.com/Red Light Therapy.html</loc>
+	</url>
+	<url>
+		<loc>http://kravemassage.com/Info.html</loc>
 	</url>
 </urlset>
