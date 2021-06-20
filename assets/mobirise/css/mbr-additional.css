@@ -2334,9 +2334,21 @@ section.lazy-placeholder:after {
 .cid-rXHTdC93Fl H3 {
   color: #767676;
 }
+.cid-sAQ9SqXA9s {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sAQ9SqXA9s .mbr-text,
+.cid-sAQ9SqXA9s blockquote {
+  color: #767676;
+}
+.cid-sAQ9SqXA9s .mbr-text P {
+  text-align: center;
+}
 .cid-s97cwgNQAK {
   background: #ffffff;
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background: linear-gradient(0deg, #c1c1c1, #ffffff);
 }
@@ -2386,24 +2398,6 @@ section.lazy-placeholder:after {
 }
 .cid-rXGIf7YtUT .google-map[data-state="loading"] [data-state-details] {
   display: none;
-}
-.cid-shKPiM2CNx {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-shKPiM2CNx .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-shKPiM2CNx .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-shKPiM2CNx .mbr-text {
-  color: #767676;
 }
 .cid-sAQ65GYcuv {
   padding-top: 30px;
