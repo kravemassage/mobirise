@@ -18,9 +18,6 @@
 		<loc>http://kravemassage.com/Specials.html</loc>
 	</url>
 	<url>
-		<loc>http://kravemassage.com/KraveTherapeuticMassage.html</loc>
-	</url>
-	<url>
 		<loc>http://kravemassage.com/Info.html</loc>
 	</url>
 	<url>
@@ -28,5 +25,8 @@
 	</url>
 	<url>
 		<loc>http://kravemassage.com/Red-Light-Therapy.html</loc>
+	</url>
+	<url>
+		<loc>http://kravemassage.com/Home.html</loc>
 	</url>
 </urlset>
