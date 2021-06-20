@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Therapeutic Massage",
-    "currentPage": "Home.html",
+    "currentPage": "KraveTherapeuticMassage.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7097,7 +7097,7 @@
         }
       ]
     },
-    "Home.html": {
+    "KraveTherapeuticMassage.html": {
       "settings": {
         "main": true,
         "title": "Krave Therapeutic Massage",
