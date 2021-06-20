@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Therapeutic Massage",
-    "currentPage": "KraveTherapeuticMassage.html",
+    "currentPage": "GiftCertificate.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7674,7 +7674,7 @@
         }
       ]
     },
-    "GiftCertificates.html": {
+    "GiftCertificate.html": {
       "settings": {
         "meta_descr": "Purchase online gift certificate for massage - instant print or email",
         "title": "Gift Certificates",
